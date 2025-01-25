@@ -1,7 +1,7 @@
 
 # LinkUp Chat Application
 
-Welcome to **LinkUp**! A modern, real-time chat application where users can create rooms and connect with others. Built with the **MERN stack** and **Socket.IO**, LinkUp provides a seamless chat experience with dynamic online user tracking and a sleek interface powered by **DaisyUI** and **Tailwind CSS**.
+Welcome to **LinkUp**! A modern, real-time chat application where users can chat with others. Built with the **MERN stack** and **Socket.IO**, LinkUp provides a seamless chat experience with dynamic online user tracking and a sleek interface powered by **DaisyUI** and **Tailwind CSS**.
 
 ---
 
